@@ -3,7 +3,7 @@
 ## How to Set Up Vite React 
 
 1. Create Folder in your Desktop
-2.# Set Up Vite React and Git Bash
+2. Set Up Vite React and Git Bash
 
 ## How to Set Up Vite React
 
