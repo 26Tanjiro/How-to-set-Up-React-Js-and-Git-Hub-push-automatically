@@ -53,29 +53,28 @@
    - Next Copy also:
      ```
      git config --global push.default matching
-     dist
      ```
 
 3. **Stage Your Changes**
-   ```bash
+   ``` bash
    git config --global alias.co checkout
    ```
 
 4. **Commit Your Changes**
-   ```bash
+   ``` bash
   git init
    ```
 
 5. **Connect to a Remote Repository**
    go to your git repository and copy the follow.
 
-5. (1) Check if the file README.md exists in your current directory.
+5. **(1) Check if the file README.md exists in your current directory.**
 
 ``` bash
 ls
 ```
 
-5. (2) Ensure the filename is correct
+5. **(2) Ensure the filename is correct**
 ``` bash
 ls -l
 ```
