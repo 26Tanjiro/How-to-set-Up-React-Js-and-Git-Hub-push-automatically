@@ -83,6 +83,26 @@ ls -l
    ```bash
    git branch -M main
    git push -u origin main
-   
+
+# 🌡️ Git Workflow: Temperature Change Branch
+
+This README explains the steps used to create a new Git branch, commit changes, and push it to a remote repository. The branch in this example is called `temperature-change`.
+
+---
+
+## 🚀 Steps
+
+### 1. Create and switch to a new branch
+```bash
+git checkout -b temperature-change
+
+git add .
+
+git commit -m "changed temp"
+
+git status
+
+git push origin temperature-change
+
 
 
